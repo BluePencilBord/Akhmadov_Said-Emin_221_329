@@ -1,0 +1,8 @@
+git init
+git config --global user.name 'BluePencilBord'
+git config --global user.email 'amin54321@yandex.ru'
+git checkout -b exam_02_07_2023
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/BluePencilBord/Akhmadov_Said-Emin_221_329/tree/exam_02_07_06_2023
+git push -f origin  exam_01_07_2023
